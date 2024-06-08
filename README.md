@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'am Bertho Erizal. I have understanding about Backend Engineer for building websites. I'am interest to learn new knowledge about programming because there are systems that can be developed and studied as a challenge to increase my experience. 
+I am Bertho Erizal, a Backend Engineer with expertise in building websites. I am eager to learn new programming knowledge, as developing and studying new systems presents a valuable challenge and an opportunity to enhance my experience.
 
 -----
 
